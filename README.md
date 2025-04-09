@@ -11,4 +11,4 @@
 
 [**css_demo**](https://khjdlqslek.github.io/css_demo.html)
 
-![Homework 3-1](homework3-1 합.jpg)
+![Homework 3-1](https://khjdlqslek.github.io/homework3-1합.jpg)
