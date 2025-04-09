@@ -10,7 +10,3 @@
 [**homework2-4**](https://khjdlqslek.github.io/homework2-4.html)
 
 [**css_demo**](https://khjdlqslek.github.io/css_demo.html)
-
-[**homework3-1**](https://khjdlqslek.github.io/homework3-1합.jpg)
-
-[**homework3-1**](https://khjdlqslek.github.io/homework3-1곱.jpg)
