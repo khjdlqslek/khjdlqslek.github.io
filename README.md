@@ -11,6 +11,7 @@
 
 [**css_demo**](https://khjdlqslek.github.io/css_demo.html)
 
-[**homework３-１**](https://khjdlqslek.github.io/homework３－１.ｊｐｇ)
-[**homework３－２**](https://khjdlqslek.github.io/homework2３－２.ｊｐｇ)
-[**homework３－３**](https://khjdlqslek.github.io/homework３－３.ｊｐｇ)
+[**homework３-１**](https://khjdlqslek.github.io/homework3-1.jpg)
+[**homework３－２**](https://khjdlqslek.github.io/homework.3-2jpg)
+[**homework３－３**](https://khjdlqslek.github.io/homework.3-3jpg)
+3-4
